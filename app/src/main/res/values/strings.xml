@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Streaming App</string>
+    <string name="feed_title">Feed de Conteúdos</string>
+    <string name="playlists_title">Minhas Playlists</string>
+    <string name="empty_playlist">Playlist vazia</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+</resources>
+
+
